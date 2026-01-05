@@ -6,9 +6,13 @@ A simple Java-based fraud detection system that analyses transactions and flags 
 
 🚀 Features
 ✔ Detects potentially fraudulent transactions
+
 ✔ Rule-based detection logic
+
 ✔ Clean, modular Java classes
+
 ✔ Easy to extend with new rules
+
 ✔ Command-line based execution
 
 
@@ -45,15 +49,18 @@ DSA
 
 🔧 Setup & Installation
 1️⃣ Clone the Repository
+
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 
 2️⃣ Compile the Project
+
 javac Main.java
 
 This will compile all dependent classes automatically.
 
 3️⃣ Run the Program
+
 java Main
 
 
