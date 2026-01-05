@@ -5,6 +5,7 @@ A simple Java-based fraud detection system that analyses transactions and flags 
 
 
 🚀 Features
+
 ✔ Detects potentially fraudulent transactions
 
 ✔ Rule-based detection logic
@@ -17,6 +18,7 @@ A simple Java-based fraud detection system that analyses transactions and flags 
 
 
 🧠 How It Works
+
 The system processes Transaction objects and evaluates them using the FraudDetector class.
 If a transaction matches fraud-rule conditions, it is flagged as suspicious and reported.
 
@@ -42,12 +44,15 @@ You can easily update or add rules in FraudDetector.java.
 
 
 🛠 Tech Stack
+
 Java (JDK 8+)
+
 DSA
 
 
 
 🔧 Setup & Installation
+
 1️⃣ Clone the Repository
 
 git clone https://github.com/<your-username>/<repo-name>.git
@@ -73,6 +78,7 @@ Transaction ID: 102 — Status: FRAUD DETECTED 🚨
 
 
 🧩 Core Classes
+
 Transaction.java
 
 Represents a transaction object containing details such as:
